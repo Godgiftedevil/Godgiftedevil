@@ -40,7 +40,7 @@ Right now, my focus is on strengthening my fundamentals, improving my Git/GitHub
 ---
 
 ## 📊 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godgiftedevil&theme=dark&layout=compact&hide_border=false"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 ---
 
