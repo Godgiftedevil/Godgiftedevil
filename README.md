@@ -43,3 +43,5 @@ Right now, my focus is on strengthening my fundamentals, improving my Git/GitHub
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godgiftedevil&theme=dark&layout=compact&hide_border=false"/>
 
 ---
+
+![Game GIF](https://github.com/aliiakbarkhan/aliiakbarkhan/blob/dedd5dd7ac371b4ff0bf7aa67beba740904826d5/game.gif)
