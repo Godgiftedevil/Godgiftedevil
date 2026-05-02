@@ -47,5 +47,8 @@ Right now, my focus is on strengthening my fundamentals, improving my Git/GitHub
 ![Game GIF](https://github.com/aliiakbarkhan/aliiakbarkhan/blob/dedd5dd7ac371b4ff0bf7aa67beba740904826d5/game.gif)
 
 ## Website Verification
+
+<meta name="google-site-verification" content="zC067JfEGOsS3Tt0ccSPBkT0RqBugkBP4z0DraK3RXw" />
+
 google-site-verification: google7d5ed5961aa6f0fd.html
 This repository is verified with Google Search Console for SEO and ownership authentication.
